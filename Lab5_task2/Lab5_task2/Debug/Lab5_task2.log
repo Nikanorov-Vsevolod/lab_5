@@ -1,0 +1,5 @@
+﻿  Lab5_task2.cpp
+c:\users\dimah\desktop\основы программирования\lab5_task2\lab5_task2\lab5_task2.cpp(12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\dimah\desktop\основы программирования\lab5_task2\lab5_task2\lab5_task2.cpp(71): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\dimah\desktop\основы программирования\lab5_task2\lab5_task2\lab5_task2.cpp(72): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab5_task2.vcxproj -> C:\Users\dimah\Desktop\Основы Программирования\Lab5_task2\Debug\Lab5_task2.exe
